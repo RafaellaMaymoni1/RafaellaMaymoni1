@@ -12,4 +12,4 @@ Meu nome é Rafaella Maymoni.
 
 -@rafa_maymoni
 
-! [](https://media.tenor.com/WczWFfFXJTAAAAAM/cute-dogs.gif)
+![](https://media.tenor.com/WczWFfFXJTAAAAAM/cute-dogs.gif)
